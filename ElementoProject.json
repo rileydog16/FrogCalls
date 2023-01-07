@@ -21,10 +21,17 @@
               "name": "Text 1",
               "kind": "Text",
               "properties": {
-                "content": "Rivet-ing",
+                "content": "Croak-ing",
                 "color": "darkblue",
                 "fontSize": 32
               },
+              "elements": []
+            },
+            {
+              "id": "textinput_1",
+              "name": "Text Input 1",
+              "kind": "TextInput",
+              "properties": {},
               "elements": []
             }
           ]
